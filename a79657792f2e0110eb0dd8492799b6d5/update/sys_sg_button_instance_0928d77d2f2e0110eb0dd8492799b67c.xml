@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Recruits)">4128d77d2f2e0110eb0dd8492799b67a</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Recruits)</name>
+        <order/>
+        <parent>c528d77d2f2e0110eb0dd8492799b676</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-31 04:33:45</sys_created_on>
+        <sys_id>0928d77d2f2e0110eb0dd8492799b67c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Recruits)</sys_name>
+        <sys_package display_value="WeRecruit" source="x_305234_werecruit">a79657792f2e0110eb0dd8492799b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WeRecruit">a79657792f2e0110eb0dd8492799b6d5</sys_scope>
+        <sys_update_name>sys_sg_button_instance_0928d77d2f2e0110eb0dd8492799b67c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-31 04:33:45</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=0928d77d2f2e0110eb0dd8492799b67c"/>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description> Recruiter Source Profiles</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">b828977d2f2e0110eb0dd8492799b62e</icon>
+        <name>Recruiter Source Profiles</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-31 04:33:46</sys_created_on>
+        <sys_id>9528d77d2f2e0110eb0dd8492799b6a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recruiter Source Profiles</sys_name>
+        <sys_package display_value="WeRecruit" source="x_305234_werecruit">a79657792f2e0110eb0dd8492799b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WeRecruit">a79657792f2e0110eb0dd8492799b6d5</sys_scope>
+        <sys_update_name>sys_sg_list_screen_9528d77d2f2e0110eb0dd8492799b6a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-31 04:33:46</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=9528d77d2f2e0110eb0dd8492799b6a1"/>
+</record_update>

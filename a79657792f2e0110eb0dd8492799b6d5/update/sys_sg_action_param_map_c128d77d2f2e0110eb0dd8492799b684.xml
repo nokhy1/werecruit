@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Recruits)">c528d77d2f2e0110eb0dd8492799b680</button>
+        <item_parameter display_value="Recruits recruit_name">8128d77d2f2e0110eb0dd8492799b67f</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-31 04:33:45</sys_created_on>
+        <sys_id>c128d77d2f2e0110eb0dd8492799b684</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8128d77d2f2e0110eb0dd8492799b67f</sys_name>
+        <sys_package display_value="WeRecruit" source="x_305234_werecruit">a79657792f2e0110eb0dd8492799b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WeRecruit">a79657792f2e0110eb0dd8492799b6d5</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_c128d77d2f2e0110eb0dd8492799b684</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-31 04:33:45</sys_updated_on>
+        <ui_parameter display_value="Recruit Name">c928d77d2f2e0110eb0dd8492799b682</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

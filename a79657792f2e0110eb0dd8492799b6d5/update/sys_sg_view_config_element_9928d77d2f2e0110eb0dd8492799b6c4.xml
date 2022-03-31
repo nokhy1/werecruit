@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>number-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-31 04:33:46</sys_created_on>
+        <sys_id>9928d77d2f2e0110eb0dd8492799b6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>number-FieldValue</sys_name>
+        <sys_package display_value="WeRecruit" source="x_305234_werecruit">a79657792f2e0110eb0dd8492799b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WeRecruit">a79657792f2e0110eb0dd8492799b6d5</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_9928d77d2f2e0110eb0dd8492799b6c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-31 04:33:46</sys_updated_on>
+        <view_config display_value="Job Title Profile List Screen View Config">1128d77d2f2e0110eb0dd8492799b6c4</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
